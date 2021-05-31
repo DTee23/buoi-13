@@ -1,0 +1,83 @@
+body {
+    width: 700px;
+    margin:  auto;
+}
+#block1 {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+}
+.red1 {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.gray1 {
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: gray;
+}
+.gray2 {
+    width: 100px;
+    height: 200px;
+    margin-left: 100px;
+    float: left;
+    background-color: gray;
+}
+
+
+#block2 {
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+}
+.red2 {
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.gray3 {
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: gray;
+}
+.gray4 {
+    width: 100px;
+    height: 200px;
+    margin-left: 300px;
+    float: left;
+    background-color: gray;
+}
+
+
+#block3 {
+    width: 700px;
+    height: 300px;
+    float: left;
+    
+}
+.red3 {
+    width: 700px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.gray5 {
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: gray;
+}
+.gray6 {
+    width: 100px;
+    height: 200px;
+    margin-left: 500px;
+    float: left;
+    background-color: gray;
+}
